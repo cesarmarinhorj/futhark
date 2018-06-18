@@ -3,6 +3,8 @@ python class for unicode elder futhark runes
 
 https://en.wikipedia.org/wiki/Elder_Futhark
 
+![Image of Futhark](http://www.ancientscripts.com/images/futhark.gif)
+
 ## Example
 
 Instance a new `Futhark` class
