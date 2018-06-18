@@ -1,5 +1,6 @@
 # futhark
 python class for unicode elder futhark runes
+
 https://en.wikipedia.org/wiki/Elder_Futhark
 
 ## Example
